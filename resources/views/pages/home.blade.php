@@ -524,7 +524,7 @@
     <div class="round-button"><a  href="#">Get To Know Us!</a></div>
 </div>
 </div><!-- end featured section 3 -->
-
+<div class="clearfix"></div>
 <div id="contactHome">
     <div class="row">
         <div class="col-md-12">
