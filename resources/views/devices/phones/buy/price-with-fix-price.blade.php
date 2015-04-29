@@ -38,7 +38,7 @@
                         </div>
                     </div>
                     <div class="sell-phone-details-price-wrapper">
-                         <div class="col-md-8">
+                         <div class="col-md-8 no-padding">
                             <h6>Total</h6>
                         </div>
                         <div class="col-md-4">
@@ -47,10 +47,37 @@
                     </div>
                     <a href="/buy-phone/get-paid"><button class="price-page-btn right">Sell Your Device!</button></a>
                 </div>
-                <div class="col-md-6">
-                    <div class="get-a-repair-quote-wrapper center">
-                        <h3>Or<br/>Get A Quick<br/>Repair Quote<br/>& Compare Prices!</h3>
-                        <a href="/buy-phone/problems"><button class="price-page-btn">Get A Quote</button></a>
+                <div class="col-md-6" style="padding-left: 50px">
+                    <div class="get-a-repair-quote-wrapper">
+                        <h3>Your Estimate</h3>
+                        <div class="sell-phone-details-wrapper">
+                            <div class="row">
+                                <div class="col-md-8">
+                                    <h6>{{$model->name}}</h6>
+                                    @foreach($problems as $problem)
+                                        <h6>{{$problem->name}}</h6>
+                                    @endforeach
+                                    <h6>Shipping</h6>
+                                </div>
+                                <div class="lcol-md-4">
+                                    <h6>Price</h6>
+                                    <?php $total = 0; ?>
+                                    @foreach($problems as $problem)
+                                        <h6>${{$problem->pivot->price}}</h6>
+                                        <?php $total += (int) $problem->pivot->price;?>
+                                    @endforeach
+                                    <h6>Free</h6>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="sell-phone-details-price-wrapper">
+                             <div class="col-md-8 no-padding">
+                                <h6>Total</h6>
+                            </div>
+                            <div class="col-md-4">
+                                <h6>${{$total}}</h6>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
