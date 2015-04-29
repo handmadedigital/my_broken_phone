@@ -151,7 +151,7 @@
             data-ease="easeOutExpo"
             data-duration="1200"
             data-effect="scale(1.3,1.4)"
-            href="#"
+            href="http://104.236.78.137/fix-phone/brands"
         >
             FIX YOUR DEVICE!
             
