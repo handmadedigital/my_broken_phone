@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
-
+@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,500italic,400italic,700,700italic,900,900italic);
 p,h1,h2,h3,h4,h5,h6,a,span,label,li{
     font-family: 'Open Sans', sans-serif !important;
 }
@@ -948,4 +948,47 @@ textarea{
 }
 #whatWeDo{
     padding-bottom: 150px;
+}
+
+footer{
+    background: #76D8C0;
+}
+
+.footer-detail-wrapper h2{
+    color: #4D8B7C;
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: 800;
+    font-family: 'Roboto', sans-serif !important;
+    margin-top: 15%;
+}
+.footer-menu-list, .footer-blog-roll-list{
+   padding-left: 0 !important;
+    width: 100%;
+}
+.footer-menu-list li, .footer-blog-roll-list li{
+    border-bottom: solid 1px #AFE8DA;
+    padding-bottom: 10px;
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+.footer-menu-list li:last-child, .footer-blog-roll-list li:last-child{
+    border-bottom: none;
+}
+.footer-menu-list a, .footer-blog-roll-list a{
+    color: #4A8E7D;
+    font-size: 18px;
+    font-weight: 400;
+}
+.footer-contact label{
+    color: #538E7D;
+    line-height: 28px !important;
+    font-size: 16px;
+}
+
+.footer-contact input[type="submit"] {
+    border: none !important;
+    background: #f2766a;
+    color: #fff;
+    padding: 10px !important;
 }

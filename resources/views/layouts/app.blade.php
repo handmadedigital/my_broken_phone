@@ -26,7 +26,7 @@
       @yield('content')
     </div>
 
-    <div id="footer"></div>
+    @include('partials.footer')
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
