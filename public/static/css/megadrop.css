@@ -53,15 +53,18 @@ p,h1,h2,h3,h4,h5,h6,a,span,label,li{
 /************************/
 .tgl-megadrop{
 	list-style-type: none;
-	margin-right: 7%;
+	margin-right: 3%;
 	float: right;
-	margin-top: 20px;
+	margin-top: 2.2%;
 }
 
 .tgl-megadrop li{
 	display: inline-block;
 	padding: 0 20px;
 	border-right:solid 1px rgba(255,255,255,.4) ;
+}
+.tgl-megadrop li:last-child{
+	border: none;
 }
 .tgl-megadrop li a{
 	color: #fff;

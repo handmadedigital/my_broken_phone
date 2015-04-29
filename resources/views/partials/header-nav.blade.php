@@ -116,14 +116,23 @@
             <li class="has-submenu">
               <a href="">Locations</a>
               <div class="submenu-wrapper ">
-                <div class="mega-col-4">
-                  <ul><li>dsads</li></ul>
+                <div class="mega-col-8">
+                  <div class="mega-col-img">
+                    <div id="map"><iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3524.604567089619!2d-82.5214077!3d27.944765399999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c2c2fcd0d91f7b%3A0xafa040a8a3e1a8a3!2s4530+W+Kennedy+Blvd%2C+Tampa%2C+FL+33609!5e0!3m2!1sen!2sus!4v1405699271787" width="525" height="200" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div>
+                  </div>
                 </div>
                 <div class="mega-col-4">
-                  <ul><li>dsads</li></ul>
-                </div>
-                <div class="mega-col-4">
-                  <ul><li>dsads</li></ul>
+                  <div class="mega-title">
+                    <h2>Locations</h2>
+                  </div>
+                  <ul class="submenu-menu">
+                    <li><a href="">Sarasota, FL</a></li>
+                    <li><a href="">Tampa, FL</a></li>
+                    <li><a href="">Vancouver, WA</a></li>
+                    <li><a href="">Lakeland, FL</a></li>
+                    <li><a href="">Riverview, FL</a></li>
+                    <li><a href="">Wesley Chapel, FL</a></li>
+                  </ul>
                 </div>
               </div>
             </li>
