@@ -525,7 +525,7 @@
 </div>
 </div><!-- end featured section 3 -->
 
-<div class="clearfix margin_top10"></div>
+
 
 
 <footer class="footer">

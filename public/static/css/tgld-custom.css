@@ -92,7 +92,7 @@ border-left: 0px solid #5FB68C;
 	width: 125px;
 	height: 10px;
 	margin: -15px auto 30px auto;
-	background: url(../images/title-underline.png) no-repeat;
+	background: url(../img/title-underline.png) no-repeat;
 }
 
 
@@ -157,13 +157,16 @@ min-height: 170px;
 width: 125px;
 height: 10px;
 margin: -15px auto 50px auto;
-background: url(../images/title-underline.png) no-repeat;
+background: url(../img/title-underline.png) no-repeat;
 }
 
 .about-description {
 min-height: 110px;
 }
-
+.featured_section3{
+	background: url("../img/home-about-bg.jpg") no-repeat;
+	width: 100%;
+}
 .icons {
 max-width: 140px;
 position: relative;

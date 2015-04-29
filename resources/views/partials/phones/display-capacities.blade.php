@@ -14,7 +14,7 @@
                     <div class="rod-col-20">
                         <div class="capacities-wrapper process-wrapper">
                             <label for="inputCapacity2" class="capacity-16-img @if(in_array(2, $capacity_ids)) full-opacity @endif"><span></span></label>
-                            <input disabled id="inputCapacity2" type="radio" name="capacity_slug" value="16">
+                            <input  id="inputCapacity2" type="radio" name="capacity_slug" value="16">
                         </div>
                     </div>
                     <div class="rod-col-20">
