@@ -15,15 +15,15 @@
         <div class="">
           <ul class="tgl-megadrop">
             <li><a href="/">Home</a></li>
-            <li><a href="#">Fix</a></li>
-            <li><a href="#">Sell</a></li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="http://104.236.78.137/fix-phone/brands">Fix</a></li>
+            <li><a href="http://104.236.78.137/buy-phone/carriers">Sell</a></li>
+            <li><a href="http://contourbeta.com/my-broken-phone/?cat=all">Blog</a></li>
             <li class="has-submenu">
               <a href="">Phone Facts</a>
               <div class="submenu-wrapper mega-full-width">
                 <div class="mega-col-4">
                   <div class="mega-col-img">
-                    <img src="/static/img/phone-facts-menu.png" width="">
+                    <img src="/static/img/phone-facts-menu.png">
                   </div>
                 </div>
                 <div class="mega-col-8">
@@ -103,16 +103,16 @@
                   </div>
                   <ul class="submenu-menu">
                     <li><a href="">iPod Nano Repair</a></li>
-                    <li><a href="">iPod  Repair</a></li>
-                    <li><a href="">Samsung Repair</a></li>
-                    <li><a href="">Google Repair</a></li>
+                    <li><a href="">iPod  Video / Classic</a></li>
+                    <li><a href="">iPod Touch Repair</a></li>
+                    <li><a href="">iPod Repair</a></li>
                     <li class="mega-footer"><a href="">All Smartphone Repairs</a></li>
                   </ul>
                 </div>
               </div>
             </li>
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="http://contourbeta.com/my-broken-phone/about/">About</a></li>
+            <li><a href="http://contourbeta.com/my-broken-phone/contact/">Contact</a></li>
             <li class="has-submenu">
               <a href="">Locations</a>
               <div class="submenu-wrapper ">

@@ -115,3 +115,15 @@ p,h1,h2,h3,h4,h5,h6,a,span,label,li{
 	font-size: 15px;
 }
 
+.mega-footer{
+	padding: 25px 0 0 0;
+}
+
+.mega-footer a{
+	position: absolute;
+	color: #888888;
+	margin: 15px 0;
+	font-weight: bold;
+	bottom: 0;
+}
+
