@@ -14,7 +14,7 @@
                         <input type="hidden" value="2" name="payment_method">
                         <button class="get-paid-btn">Check</button>
                     </form>
-                    <form method="post">
+                    <form method="post" style="margin-top: 1%;">
                         <input type="hidden" value="{{csrf_token()}}" name="_token">
                         <input type="hidden" value="1" name="payment_method">
                         <button class="get-paid-btn">PayPal</button>
