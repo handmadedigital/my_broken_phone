@@ -3,7 +3,9 @@
 p,h1,h2,h3,h4,h5,h6,a,span,label,li{
     font-family: 'Open Sans', sans-serif !important;
 }
-
+.process-wrapper img{
+    border-radius: 8px;
+}
 .right{float: right}
 .left{float: left}
 .center{text-align: center}
@@ -1017,6 +1019,3 @@ footer{
     margin-top: 14%;
 }
 
-.process-wrapper img{
-    border-radius: 8px;
-}
