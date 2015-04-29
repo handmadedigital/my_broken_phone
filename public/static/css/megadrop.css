@@ -57,6 +57,8 @@ p,h1,h2,h3,h4,h5,h6,a,span,label,li{
 	margin-right: 3%;
 	float: right;
 	margin-top: 2.2%;
+	padding: 0 !important;
+	margin-left: 0 !important;
 }
 
 .tgl-megadrop li{
@@ -108,6 +110,10 @@ p,h1,h2,h3,h4,h5,h6,a,span,label,li{
 	font-weight: 600;
 	font-family: 'Roboto', sans-serif !important;
 }
+.submenu-menu{
+	margin: 0;
+	padding: 0;
+}
 .submenu-menu:first-child{
 	margin-left: 20px;
 }
@@ -129,9 +135,9 @@ p,h1,h2,h3,h4,h5,h6,a,span,label,li{
 
 .mega-footer a{
 	position: absolute;
-	color: #888888;
+	color: #888888 !important;
 	margin: 15px 0;
-	font-weight: bold;
+	font-weight: bold !important;
 	bottom: 0;
 }
 
