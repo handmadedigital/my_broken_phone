@@ -36,6 +36,6 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="/static/js/signup.js"></script>
     <script src="/static/js/steps.js"></script>
-    <script src="/static/js/script.js"></script>
+    <script src="/static/js/megadrop.js"></script>
   </body>
 </html>

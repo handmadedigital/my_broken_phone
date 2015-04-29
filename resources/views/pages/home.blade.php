@@ -267,7 +267,7 @@
         <div class="title-underline"></div>
         <ul class="tabs3 ">
             <li id="left-tab"><a href="#example-3-tab-1" target="_self">Fix</a></li>
-            <li id="middle-tab"><a href="#example-3-tab-2" target="_self">Buy</a></li>
+            <li id="middle-tab"><a href="#example-3-tab-2" target="_self">Service</a></li>
             <li id="right-tab"><a href="#example-3-tab-3" target="_self">Sell</a></li>
         </ul>
          
@@ -308,7 +308,48 @@
             </div><!-- end tab 1 -->
             
             <div id="example-3-tab-2" class="tabs-panel3">
-                2
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 service-home-img">
+                            <img src="/static/img/iphone-6-plus-logo.png" width="130" height="258">
+                        </div>
+                        <div class="col-md-9">
+                            <div class="col-md-4">
+                                <ul class="home-service-list">
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/1156-2/">Iphone Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/blackberry-repair/">Blackberry Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/samsung-repair/">Samsung Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/google-repair/">Google Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/htc-repair/">HTC Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/nokia-repair/">Nokia Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/73-2/">LG Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/motorola-repair/">Motorola Repair</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul class="home-service-list">
+                                    <li><a href="http://contourbeta.com/my-broken-phone/ipad-repair/">Ipad Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/blackberry-playbook/">Blackberry Tablet Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/samsung-tablet-repair/">Samsung Tablet Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/google-tablet-repair/">Google Tablet Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/asus-tablet-repair/">Asus Tablet Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/amazon-tablet-repair/">Amazon Tablet Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/htc-tablet-repair/">HTC Tablet Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/motorola-tablet-repair/">Motorola Tablet Repair</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <ul class="home-service-list">
+                                    <li><a href="http://contourbeta.com/my-broken-phone/ipod-nano-repair/">iPod Nano Repair</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/ipod-videoclassic/">iPod  Video / Classic</a></li>
+                                    <li><a href="http://contourbeta.com/my-broken-phone/ipod-touch-repair/">iPod Touch Repair</a></li>
+                                    <li><a href="">iPod Repair</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="round-button"><a href="#">Find Out More!</a></div>
+                </div>
             </div><!-- end tab 2 -->
             
             <div id="example-3-tab-3" class="tabs-panel3">
