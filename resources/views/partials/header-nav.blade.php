@@ -12,50 +12,121 @@
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="/fix-phone/brands">Fix</a></li>
-            <li><a href="/buy-phone/carriers">Sell</a></li>
-            <li><a href="http://contourbeta.com/my-broken-phone/?cat=all">Blog</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Phone Facts <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="http://contourbeta.com/my-broken-phone/hacks/">Phone Hacks</a></li>
-                <li><a href="http://contourbeta.com/my-broken-phone/reviews/">Review Releases</a></li>
-                <li><a href="http://contourbeta.com/my-broken-phone/diy/">DIY</a></li>
-              </ul>
+        <div class="">
+          <ul class="tgl-megadrop">
+            <li><a href="/">Home</a></li>
+            <li><a href="#">Fix</a></li>
+            <li><a href="#">Sell</a></li>
+            <li><a href="#">Blog</a></li>
+            <li class="has-submenu">
+              <a href="">Phone Facts</a>
+              <div class="submenu-wrapper mega-full-width">
+                <div class="mega-col-4">
+                  <div class="mega-col-img">
+                    <img src="/static/img/phone-facts-menu.png" width="">
+                  </div>
+                </div>
+                <div class="mega-col-8">
+                  <div class="mega-title">
+                    <h2>Phone Facts</h2>
+                  </div>
+                  <div class="row">
+                    <div class="mega-col-6">
+                      <ul class="submenu-menu">
+                       <li><a href="">Reviews</a></li>
+                       <li><a href="">Dos and Don'ts</a></li>
+                       <li><a href="">Hacks</a></li>
+                       <li><a href="">Releases</a></li>
+                       <li><a href="">Do It Yourself</a></li>
+                       <li><a href="">DIY Water Damage</a></li>
+                       <li><a href="">Water Damage</a></li>
+                       <li><a href="">Why nad Why Not?</a></li>
+                       <li><a href="">Privacy and Tips</a></li>
+                      </ul>
+                    </div>
+                    <div class="mega-col-6">
+                      <ul class="submenu-menu">
+                       <li><a href="">Manufacturer Secrets</a></li>
+                       <li><a href="">Battery Life</a></li>
+                       <li><a href="">Screen Materials</a></li>
+                       <li><a href="">Phone Warranties</a></li>
+                       <li><a href="">AppleCare / Samsung</a></li>
+                       <li><a href="">How Mobile Phones Work</a></li>
+                       <li><a href="">Cellular</a></li>
+                       <li><a href="">Internet</a></li>
+                       <li><a href="">Myths</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Services <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/iphone-repair/">iPhone Repair</a></li>
-                <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/samsung-repair/">Samsung Repair</a></li>
-                <li><a href="http://contourbeta.com/my-broken-phone/contact/">Something else here</a></li>
-              </ul>
+            <li class="has-submenu">
+              <a href="">Services</a>
+              <div class="submenu-wrapper ">
+                <div class="mega-col-4">
+                  <div class="mega-title">
+                    <h2>Smart Phone Repair</h2>
+                  </div>
+                  <ul class="submenu-menu">
+                    <li><a href="">Iphone Repair</a></li>
+                    <li><a href="">Blackberry Repair</a></li>
+                    <li><a href="">Samsung Repair</a></li>
+                    <li><a href="">Google Repair</a></li>
+                    <li><a href="">HTC Repair</a></li>
+                    <li><a href="">Nokia Repair</a></li>
+                    <li><a href="">LG Repair</a></li>
+                    <li><a href="">Motorola Repair</a></li>
+                    <li class="mega-footer"><a href="">All Smartphone Repairs</a></li>
+                  </ul>
+                </div>
+                <div class="mega-col-4">
+                  <div class="mega-title">
+                    <h2>Tablet Repair</h2>
+                  </div>
+                  <ul class="submenu-menu">
+                    <li><a href="">Ipad Repair</a></li>
+                    <li><a href="">Blackberry Tablet Repair</a></li>
+                    <li><a href="">Samsung Tablet Repair</a></li>
+                    <li><a href="">Google Tablet Repair</a></li>
+                    <li><a href="">Asus Tablet Repair</a></li>
+                    <li><a href="">Amazon Tablet Repair</a></li>
+                    <li><a href="">HTC Tablet Repair</a></li>
+                    <li><a href="">Motorola Tablet Repair</a></li>
+                    <li class="mega-footer"><a href="">All Tablet Repairs</a></li>
+                  </ul>
+                </div>
+                <div class="mega-col-4">
+                  <div class="mega-title">
+                    <h2>iPod Repair</h2>
+                  </div>
+                  <ul class="submenu-menu">
+                    <li><a href="">iPod Nano Repair</a></li>
+                    <li><a href="">iPod  Repair</a></li>
+                    <li><a href="">Samsung Repair</a></li>
+                    <li><a href="">Google Repair</a></li>
+                    <li class="mega-footer"><a href="">All Smartphone Repairs</a></li>
+                  </ul>
+                </div>
+              </div>
             </li>
-            <li><a href="http://contourbeta.com/my-broken-phone/about/">About</a></li>
+            <li><a href="#">About</a></li>
             <li><a href="#">Contact</a></li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Locations <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="#">Phone Hacks</a></li>
-                <li><a href="#">Review Releases</a></li>
-                <li><a href="#">Something else here</a></li>
-              </ul>
+            <li class="has-submenu">
+              <a href="">Locations</a>
+              <div class="submenu-wrapper ">
+                <div class="mega-col-4">
+                  <ul><li>dsads</li></ul>
+                </div>
+                <div class="mega-col-4">
+                  <ul><li>dsads</li></ul>
+                </div>
+                <div class="mega-col-4">
+                  <ul><li>dsads</li></ul>
+                </div>
+              </div>
             </li>
-            @if(Auth::check())
-            <li class="dropdown">
-              <a href="" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">{{ucwords(Auth::user()->username)}} <span class="caret"></span></a>
-              <ul class="dropdown-menu" role="menu">
-                <li><a href="/{{Auth::user()->slug}}/orders">Orders</a></li>
-                <li><a href="/auth/logout">Logout</a></li>
-                <li><a href="#">Something else here</a></li>
-              </ul>
-            </li>
-            @else
-              <li><a href="/auth/sign-up">Sign In</a></li>
-              <li><a href="/auth/sign-up">Sign Up</a></li>
-            @endif
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

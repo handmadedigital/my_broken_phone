@@ -34,7 +34,8 @@
 	
     <link rel="stylesheet" href="/static/css/reset.css" type="text/css" />
 	<link rel="stylesheet" href="/static/css/style.css" type="text/css" />
-    
+	<link rel="stylesheet" href="/static/css/megadrop.css" type="text/css" />
+
     <!-- font awesome icons -->
     <link rel="stylesheet" href="/static/css/font-awesome/css/font-awesome.min.css">
 	
@@ -600,6 +601,6 @@
 <script src="/static/js/carouselowl/owl.carousel.js"></script>
 <script src="/static/js/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/static/js/universal/custom.js"></script>
-
+<script src="/static/js/megadrop.js"></script>
 </body>
 </html>

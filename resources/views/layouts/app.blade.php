@@ -16,6 +16,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
     <link rel="stylesheet" href="/static/css/styles.css">
     <link rel="stylesheet" href="/static/css/styles-responsive.css">
+    <link rel="stylesheet" href="/static/css/megadrop.css">
   </head>
   <body>
 
@@ -35,5 +36,6 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <script src="/static/js/signup.js"></script>
     <script src="/static/js/steps.js"></script>
+    <script src="/static/js/script.js"></script>
   </body>
 </html>
