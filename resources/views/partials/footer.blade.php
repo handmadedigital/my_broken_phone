@@ -59,5 +59,5 @@
 </footer>
 
 <div id="subFooter">
-
+ <p class="center">Copyright © 2015 My Broken Phone. All rights reserved.</p>
 </div>

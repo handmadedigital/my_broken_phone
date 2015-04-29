@@ -992,3 +992,15 @@ footer{
     color: #fff;
     padding: 10px !important;
 }
+
+#subFooter{
+    height: 80px;
+    background: #6BC3AE ;
+}
+
+#subFooter p{
+    line-height: 28px !important;
+    font-size: 16px;
+    padding-top: 1.5%;
+    color: #fff;
+}
