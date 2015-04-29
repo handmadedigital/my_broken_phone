@@ -80,7 +80,7 @@
                                 <div class="col-md-6">
                                     <div class="process-wrapper problem-wrapper">
                                         <label class="center @if(in_array(4, $problem_ids)) full-opacity @endif">
-                                          Water Damage Repair Diagnostic
+                                          Water Damage Diagnostic
                                           <input @if( ! in_array(4, $problem_ids)) disabled @endif class="left" type="checkbox" name="problem_slug[]" value="water-damage-repair-diagnostic">
                                         </label>
                                      </div>
