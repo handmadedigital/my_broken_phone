@@ -1,4 +1,68 @@
-
+@media (max-width: 1920px){
+    #contactFormWrapper{
+        padding-top: 7.7%;
+    }
+    .form-header{
+        width: 27%;
+    }
+    .form-body{
+        width: 26.5%;
+    }
+}
+@media (max-width: 1680px){
+    #contactFormWrapper{
+        padding-top: 9%;
+    }
+    .form-header{
+        width: 30.2%;
+        margin-left: 35%;
+    }
+    .form-body{
+        width: 29.5%;
+        margin-left: 35%;
+    }
+}
+@media (max-width: 1440px) {
+    #contactFormWrapper{
+        padding-top: 10.4%;
+    }
+    .form-header{
+        width: 35.2%;
+        margin-left: 32.5%;
+    }
+    .form-body{
+        width: 24.5%;
+        margin-left: 32.5%;
+        margin-top: -0.7%;
+    }
+}
+@media (max-width: 1366px) {
+    #contactFormWrapper{
+        padding-top: 11%;
+    }
+    .form-header{
+        width: 37.3%;
+        margin-left: 31.5%;
+    }
+    .form-body{
+        width: 36.5%;
+        margin-left: 31.5%;
+        margin-top: -0.8%;
+    }
+}
+@media (max-width: 1280px) {
+    #contactFormWrapper{
+        padding-top: 11.7%;
+    }
+    .form-header{
+        width: 39.7%;
+        margin-left: 30.3%;
+    }
+    .form-body{
+        width: 39%;
+        margin-left: 30.3%;
+    }
+}
 @media (max-width: 1040px) {
     .navbar-right{
         margin-top: -2.8%;
