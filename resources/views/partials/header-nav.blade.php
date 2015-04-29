@@ -33,28 +33,28 @@
                   <div class="row">
                     <div class="mega-col-6">
                       <ul class="submenu-menu">
-                       <li><a href="">Reviews</a></li>
-                       <li><a href="">Dos and Don'ts</a></li>
-                       <li><a href="">Hacks</a></li>
-                       <li><a href="">Releases</a></li>
-                       <li><a href="">Do It Yourself</a></li>
-                       <li><a href="">DIY Water Damage</a></li>
-                       <li><a href="">Water Damage</a></li>
-                       <li><a href="">Why nad Why Not?</a></li>
-                       <li><a href="">Privacy and Tips</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/reviews/">Reviews</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/dos-and-donts/">Dos and Don'ts</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/hacks/">Hacks</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/releases/">Releases</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/diy/">Do It Yourself</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/diy-water-damage/">DIY Water Damage</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/water-damage/">Water Damage</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/why-and-why-not/">Why nad Why Not?</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/privacy-and-tips/">Privacy and Tips</a></li>
                       </ul>
                     </div>
                     <div class="mega-col-6">
                       <ul class="submenu-menu">
-                       <li><a href="">Manufacturer Secrets</a></li>
-                       <li><a href="">Battery Life</a></li>
-                       <li><a href="">Screen Materials</a></li>
-                       <li><a href="">Phone Warranties</a></li>
-                       <li><a href="">AppleCare / Samsung</a></li>
-                       <li><a href="">How Mobile Phones Work</a></li>
-                       <li><a href="">Cellular</a></li>
-                       <li><a href="">Internet</a></li>
-                       <li><a href="">Myths</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/what-the-manufacturers-do-not-want-you-to-know/">Manufacturer Secrets</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/battery-life/">Battery Life</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/screen-materials/">Screen Materials</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/phone-warranties/">Phone Warranties</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/applecare-samsung/">AppleCare / Samsung</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/how-mobile-phones-work/">How Mobile Phones Work</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/cellular/">Cellular</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/internet/">Internet</a></li>
+                       <li><a href="http://contourbeta.com/my-broken-phone/myths/">Myths</a></li>
                       </ul>
                     </div>
                   </div>
@@ -70,15 +70,15 @@
                     <h2>Smart Phone Repair</h2>
                   </div>
                   <ul class="submenu-menu">
-                    <li><a href="">Iphone Repair</a></li>
-                    <li><a href="">Blackberry Repair</a></li>
-                    <li><a href="">Samsung Repair</a></li>
-                    <li><a href="">Google Repair</a></li>
-                    <li><a href="">HTC Repair</a></li>
-                    <li><a href="">Nokia Repair</a></li>
-                    <li><a href="">LG Repair</a></li>
-                    <li><a href="">Motorola Repair</a></li>
-                    <li class="mega-footer"><a href="">All Smartphone Repairs</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/1156-2/">Iphone Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/blackberry-repair/">Blackberry Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/samsung-repair/">Samsung Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/google-repair/">Google Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/htc-repair/">HTC Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/nokia-repair/">Nokia Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/73-2/">LG Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/smartphone-repair/motorola-repair/">Motorola Repair</a></li>
+                    <li class="mega-footer"><a href="#">All Smartphone Repairs</a></li>
                   </ul>
                 </div>
                 <div class="mega-col-4">
@@ -86,15 +86,15 @@
                     <h2>Tablet Repair</h2>
                   </div>
                   <ul class="submenu-menu">
-                    <li><a href="">Ipad Repair</a></li>
-                    <li><a href="">Blackberry Tablet Repair</a></li>
-                    <li><a href="">Samsung Tablet Repair</a></li>
-                    <li><a href="">Google Tablet Repair</a></li>
-                    <li><a href="">Asus Tablet Repair</a></li>
-                    <li><a href="">Amazon Tablet Repair</a></li>
-                    <li><a href="">HTC Tablet Repair</a></li>
-                    <li><a href="">Motorola Tablet Repair</a></li>
-                    <li class="mega-footer"><a href="">All Tablet Repairs</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/ipad-repair/">Ipad Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/blackberry-playbook/">Blackberry Tablet Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/samsung-tablet-repair/">Samsung Tablet Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/google-tablet-repair/">Google Tablet Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/asus-tablet-repair/">Asus Tablet Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/amazon-tablet-repair/">Amazon Tablet Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/htc-tablet-repair/">HTC Tablet Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/motorola-tablet-repair/">Motorola Tablet Repair</a></li>
+                    <li class="mega-footer"><a href="#">All Tablet Repairs</a></li>
                   </ul>
                 </div>
                 <div class="mega-col-4">
@@ -102,11 +102,11 @@
                     <h2>iPod Repair</h2>
                   </div>
                   <ul class="submenu-menu">
-                    <li><a href="">iPod Nano Repair</a></li>
-                    <li><a href="">iPod  Video / Classic</a></li>
-                    <li><a href="">iPod Touch Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/ipod-nano-repair/">iPod Nano Repair</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/ipod-videoclassic/">iPod  Video / Classic</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/ipod-touch-repair/">iPod Touch Repair</a></li>
                     <li><a href="">iPod Repair</a></li>
-                    <li class="mega-footer"><a href="">All Smartphone Repairs</a></li>
+                    <li class="mega-footer"><a href="#">All Smartphone Repairs</a></li>
                   </ul>
                 </div>
               </div>
@@ -126,12 +126,12 @@
                     <h2>Locations</h2>
                   </div>
                   <ul class="submenu-menu">
-                    <li><a href="">Sarasota, FL</a></li>
-                    <li><a href="">Tampa, FL</a></li>
-                    <li><a href="">Vancouver, WA</a></li>
-                    <li><a href="">Lakeland, FL</a></li>
-                    <li><a href="">Riverview, FL</a></li>
-                    <li><a href="">Wesley Chapel, FL</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/locations/sarasota-florida/">Sarasota, FL</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/locations/tampa-florida-location/">Tampa, FL</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/locations/vancouver-wa-location/">Vancouver, WA</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/locations/lakeland-florida-location/">Lakeland, FL</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/locations/riverview-florida/">Riverview, FL</a></li>
+                    <li><a href="http://contourbeta.com/my-broken-phone/locations/wesley-chapel-florida/">Wesley Chapel, FL</a></li>
                   </ul>
                 </div>
               </div>
