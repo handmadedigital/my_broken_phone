@@ -1005,6 +1005,10 @@ footer{
     color: #fff;
 }
 
+.footer-contact textarea{
+    height: 140px;
+}
+
 .model-process-btns{
     margin-top: -5%;
 }
