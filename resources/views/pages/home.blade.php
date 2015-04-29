@@ -177,7 +177,7 @@
               data-effect="scalefrom(1.2,1.3,30,0)"
          />
 
-        <h2 class="ms-layer sell-title"
+        <a class="ms-layer sell-title"
             style="left: 956px; 
             top: 220px;
             font-size: 50px;
@@ -192,7 +192,7 @@
         >
             SELL YOUR <br/>DEVICE NOW
             
-        </h2>
+        </a>
         
         <p class="ms-layer sell-description"
             style="left: 956px; 
