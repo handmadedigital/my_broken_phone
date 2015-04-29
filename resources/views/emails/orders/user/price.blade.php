@@ -1,0 +1,1 @@
+<p>price was set {{$price}}</p>

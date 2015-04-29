@@ -1,0 +1,9 @@
+
+@media (max-width: 1040px) {
+    .navbar-right{
+        margin-top: -2.8%;
+    }
+    .navbar-default .navbar-nav>li>a {
+        font-size: 12px;
+    }
+}
