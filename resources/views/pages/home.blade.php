@@ -188,6 +188,7 @@
             data-duration="2000"
             data-delay="500"
             data-ease="easeOutExpo"
+            href="http://104.236.78.137/buy-phone/carriers"
         >
             SELL YOUR <br/>DEVICE NOW
             
