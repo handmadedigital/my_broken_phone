@@ -1016,3 +1016,7 @@ footer{
 .capacity-process-btns{
     margin-top: 14%;
 }
+
+.process-wrapper img{
+    border-radius: 8px;
+}

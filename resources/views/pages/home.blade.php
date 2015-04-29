@@ -535,13 +535,13 @@
                         <div class="form-header">
                             <img src="/static/img/top-header-iphone.jpg">
                             <ul class="form-header-des">
-                                <li class="phone-header-cancel">Cancel</li>
+                                <li style="padding-left: 3%" class="phone-header-cancel">Cancel</li>
                                 <li class="phone-header-contact">Contact Us</li>
                                 <li class="phone-header-send"><button>Send</button></li>
                             </ul>
                         </div>
                         <div class="form-body">
-                            <input type="email" name="to" placeholder="To: info@mybrokenphone.com" value="To: info@mybrokenphone.com"  class="iphoneInput">
+                            <input type="text" name="to" placeholder="To: info@mybrokenphone.com" value="To: info@mybrokenphone.com"  class="iphoneInput">
                             <input type="email" name="from" placeholder="From:" class="iphoneInput">
                             <input type="text" name="subject" placeholder="Subject:" class="iphoneInput">
                             <textarea class="iphoneInput" name="msg" placeholder="Message:"></textarea>
