@@ -525,7 +525,33 @@
 </div>
 </div><!-- end featured section 3 -->
 
-
+<div id="contactHome">
+    <div class="row">
+        <div class="col-md-12">
+            <div id="contactFormWrapper">
+                <div class="contact-form-interior">
+                    <form method="post" action="/contact/send">
+                        <input type="hidden" name="_token" value="{{csrf_token()}}">
+                        <div class="form-header">
+                            <img src="/static/img/top-header-iphone.jpg">
+                            <ul class="form-header-des">
+                                <li class="phone-header-cancel">Cancel</li>
+                                <li class="phone-header-contact">Contact Us</li>
+                                <li class="phone-header-send"><button>Send</button></li>
+                            </ul>
+                        </div>
+                        <div class="form-body">
+                            <input type="email" name="to" placeholder="To: info@mybrokenphone.com" value="To: info@mybrokenphone.com"  class="iphoneInput">
+                            <input type="email" name="from" placeholder="From:" class="iphoneInput">
+                            <input type="text" name="subject" placeholder="Subject:" class="iphoneInput">
+                            <textarea class="iphoneInput" name="msg" placeholder="Message:"></textarea>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 <footer class="footer">

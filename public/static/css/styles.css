@@ -830,3 +830,122 @@ table tr th, table tr td{
     margin: 4px 10px 0 0;
 }
 
+/**********************/
+/* CONTACT HOME */
+/**********************/
+#contactHome{
+    background: url("../img/contact-home-bk.jpg");
+    background-position: center;
+}
+#contactFormWrapper{
+    background: url("../img/contact-bk.png") no-repeat;
+    margin-right: auto;
+    height: 685px;
+    margin-top: 8.1%;
+    padding-top: 8%;
+    background-position: center;
+}
+textarea{
+    width: 100%;
+}
+.form-header{
+    background: #f8f8f8;
+    width: 27.5%;
+    margin-left: 36.4%;
+}
+.form-header ul{
+    list-style-type: none;
+    padding: 0;
+}
+.form-header ul li{
+    display: inline-block;
+    padding: 0 ;
+    font-family: 'Open Sans', sans-serif;
+}
+.phone-header-cancel{
+    color: #0068ff;
+    font-size: 22px;
+}
+.phone-header-contact{
+    margin-left: 23%;
+    font-size: 25px;
+}
+.phone-header-send button{
+    padding: 0px;
+    margin-bottom: 0;
+    background: none;
+    border: none;
+    margin-left: 203%;
+    color: #c5c5c5;
+    font-size: 22px;
+}
+.phone-header-send button:hover{
+    color: #0068ff;
+}
+.iphoneInput{
+    margin: 0 !important;
+    padding: 0 !important;
+    border-top:none !important;
+    border-left: none !important;
+    border-right: none !important;
+    padding: 25px 5px !important;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+    border-bottom:solid 1px #e8e8e8 !important;
+    margin-left: 2% !important;
+}
+.iphoneInput::-webkit-input-placeholder{
+    color: #808086;
+    font-size: 15px;
+}
+.form-body{
+    margin-top: -0.6%;
+    width: 27%;
+    margin-left: 36.4%;
+    background: #fff;
+}
+.form-body textarea{
+    height: 256px !important;
+}
+#footer{
+    background: #97ffcd;
+}
+#mainLogo{
+    padding: 15px;
+}
+.top-bar {
+    height: 7.2rem !important;
+    background: linear-gradient(90deg, #2e2e2e, #181818) !important;
+}
+#mainHeaderNav{
+    margin-top: 3%;
+    margin-right: -15%;
+}
+#mainHeaderNav li{
+    background: none !important;
+}
+#mainHeaderNav li a{
+    color: #fff;
+    font-family: 'Roboto', sans-serif !important;
+    font-size: 16px;
+    background: none !important;
+}
+#mainHeaderNav li.active{
+    color: #94eac0 !important;
+}
+#mainHeaderNav  .dropdown  li {
+    background: linear-gradient(90deg, #2e2e2e, #181818) !important;
+}
+#headerIcon{
+    color: #94eac0;
+    padding-right: 2%;
+}
+#headerRightText{
+    color:#fff;
+    margin-right: 6%;
+    padding-left: 1%;
+}
+#whatWeDo{
+    padding-bottom: 150px;
+}
