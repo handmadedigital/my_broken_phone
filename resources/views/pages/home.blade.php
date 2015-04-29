@@ -177,7 +177,7 @@
               data-effect="scalefrom(1.2,1.3,30,0)"
          />
 
-        <a class="ms-layer sell-title"
+        <h2 class="ms-layer sell-title"
             style="left: 956px; 
             top: 220px;
             font-size: 50px;
@@ -188,11 +188,10 @@
             data-duration="2000"
             data-delay="500"
             data-ease="easeOutExpo"
-            href="http://104.236.78.137/buy-phone/carriers"
         >
             SELL YOUR <br/>DEVICE NOW
             
-        </a>
+        </h2>
         
         <p class="ms-layer sell-description"
             style="left: 956px; 
@@ -221,6 +220,7 @@
             data-ease="easeOutExpo"
             data-duration="1200"
             data-effect="scale(1.3,1.4)"
+            href="http://104.236.78.137/buy-phone/carriers"
         >
             SELL YOUR DEVICE!
             
