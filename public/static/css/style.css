@@ -8428,6 +8428,11 @@ ul.adsbanner-list {
 
 .home-service-list li{
 	padding: 10px;
+	border-bottom: solid 1px #ccc;
+}
+
+.home-service-list li:last-child{
+	border-bottom: none;
 }
 
 .home-service-list li a{
